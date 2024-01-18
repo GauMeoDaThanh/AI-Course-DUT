@@ -24,6 +24,9 @@
 
 ## Mô hình học sâu
 
+> [!NOTE]  
+> Tìm hiểu 2 trong các mô hình học sâu dưới : ra đời, giải quyết vấn đề gì, code
+
 - ResNet
   - ResNet34
   - Resnet 101
