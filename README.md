@@ -1,3 +1,13 @@
+```
+Quy trình làm AI
+  1. Thu thập dữ liệu (về một lĩnh vực nhất định)
+  2. Tiền xử lý dữ liệu : CV, NLP
+  3. Trích chọn đặc trưng
+  4. Gọi mô hình học máy, học sâu
+  5. Đánh giá và chọn mô hình tốt nhất
+  6. Deploy (API)
+```
+
 ## Các kỹ thuật tìm kiếm
 
 > [!WARNING]
@@ -36,13 +46,3 @@
 - ConvNext (2020)
 - Vission Transformer (7/2021)
 - GAN, Diffusion
-
-```
-Quy trình làm AI
-  1. Thu thập dữ liệu (về một lĩnh vực nhất định)
-  2. Tiền xử lý dữ liệu : CV, NLP
-  3. Trích chọn đặc trưng
-  4. Gọi mô hình học máy, học sâu
-  5. Đánh giá và chọn mô hình tốt nhất
-  6. Deploy (API)
-```
