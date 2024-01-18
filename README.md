@@ -1,6 +1,7 @@
 ## Các kỹ thuật tìm kiếm
 
-` Kiến thức thi giữa kỳ`
+> [!WARNING]
+> Kiến thức thi giữa kỳ nằm ở phần này
 
 - BFS
 - DFS
@@ -20,3 +21,15 @@
 
 - CV
 - NLP
+
+## Mô hình học sâu
+
+- ResNet
+  - ResNet34
+  - Resnet 101
+  - Resnet 132
+- MobileNet, Iception
+- Transformer (NLP)
+- ConvNext (2020)
+- Vission Transformer (7/2021)
+- GAN, Diffusion
