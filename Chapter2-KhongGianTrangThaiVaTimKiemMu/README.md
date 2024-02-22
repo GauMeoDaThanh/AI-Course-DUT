@@ -19,5 +19,5 @@
   - Khu vực chờ phát triển(frontier): tập trạng thái đang chờ xét
   - Khu vực chưa phát triển(unexplored): tập trạng thái chưa xét
 
-![Minh họa tìm kiếm theo chiều rộng](image.png)
-![Alt text](image-1.png)
+![Minh họa tìm kiếm theo chiều rộng](/Chapter2-KhongGianTrangThaiVaTimKiemMu/BFS/img/image.png)
+![Alt text](/Chapter2-KhongGianTrangThaiVaTimKiemMu/BFS/img/image-1.png)
